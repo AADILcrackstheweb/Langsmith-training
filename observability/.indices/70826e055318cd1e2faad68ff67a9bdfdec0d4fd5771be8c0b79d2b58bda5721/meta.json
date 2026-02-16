@@ -1,0 +1,6 @@
+{
+  "pdf_path": "c:\\Users\\sraad\\Music\\Langsmith-training\\observability\\advs.pdf",
+  "chunk_size": 1000,
+  "chunk_overlap": 150,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2"
+}
